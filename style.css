@@ -11,15 +11,6 @@ body {
   overflow: scroll;
 }
 
-h2,
-h3 {
-  margin: 2px 0;
-}
-
-h4 {
-  margin: 2px 0;
-}
-
 a {
   font-weight: bold;
   text-decoration: none;
@@ -30,18 +21,6 @@ a {
   font-weight: bold;
   font-size: 12px;
   margin: -2px 0;
-}
-
-.container {
-  position: relative;
-  margin: 0 6px;
-  text-align: center;
-}
-
-.buttons {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .hover-box {
