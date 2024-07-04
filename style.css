@@ -8,7 +8,7 @@ body {
   color: #ffffff;
   min-height: 100vh;
   margin: 0;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 a {
