@@ -26,8 +26,9 @@ a {
 
 .star {
   position: absolute;
-  width: 2px;
-  height: 2px;
+  width: 3px;
+  height: 3px;
+  border-radius: 100%;
   background-color: white;
   animation: blink 1s infinite alternate;
   z-index: -1;
